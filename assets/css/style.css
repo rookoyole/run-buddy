@@ -185,13 +185,13 @@ section {
 
 .trainer {
   width: 900px;
-  margin:0 auto 30px auto;
+  margin: 0 auto 30px auto;
   background: #024e76;
   color: #fce138;
   overflow: auto;
 }
 
-.trainers img {
+.trainer img {
   width: 35%;
   float: left;
 }
@@ -208,7 +208,7 @@ section {
 }
 
 .trainer-bio h4 {
-  font-weight: 32px;
+  font-weight: lighter;
   font-size: 26px;
   margin-bottom: 25px;
 }
